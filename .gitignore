@@ -1,0 +1,5 @@
+/venv
+/.private
+.env
+/.idea
+**/apple_config.yml

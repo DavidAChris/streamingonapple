@@ -1,0 +1,5 @@
+# streamingonapple.com deployment scope
+
+services:
+  py-extract:
+    image:
